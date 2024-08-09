@@ -1,4 +1,4 @@
-# flutter_tutorial
+# flutter
 
 A new Flutter project.
 
